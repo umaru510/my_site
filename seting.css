@@ -1,0 +1,33 @@
+body{
+    background:url(https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701890469.jpg);
+    background-repeat:no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+div{
+    background: rgb(102, 21, 21);/*цвет фона*/
+    width: 50%;/*ширина блока*/
+    margin: 20px auto;/*внешний отступ*/
+    padding:10px 20px 20px 20px;
+}
+td{
+    border: 1px solid red;
+    width: 25%;
+    padding: 10px;/*внутрений отступ*/
+}
+table{
+    width: 100%;
+}
+td a{
+    color: white;
+}tr td{
+    color: white;
+}
+img{
+width: 250px;
+}
+a{
+    margin-bottom:15px;
+    color: yellow;
+}
