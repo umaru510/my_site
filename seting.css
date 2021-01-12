@@ -31,3 +31,12 @@ a{
     margin-bottom:15px;
     color: yellow;
 }
+h1, p{
+    font-family: 'Bad Script', cursive;
+    color: gold;
+}
+p{
+    font-size: 30px;
+    color: white;
+}
+
