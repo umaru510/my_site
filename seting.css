@@ -10,6 +10,8 @@ div{
     width: 50%;/*ширина блока*/
     margin: 20px auto;/*внешний отступ*/
     padding:10px 20px 20px 20px;
+    box-shadow:6px 6px 13px 6px rgba(0,0,0,1);
+
 }
 td{
     border: 1px solid red;
@@ -38,5 +40,22 @@ h1, p{
 p{
     font-size: 30px;
     color: white;
+}
+.news{
+    background:green ;
+}
+.table{
+    background: green;
+}
+.menu{
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 32px;
+    box-shadow:6px 6px 13px 6px rgba(0,0,0,1);
+
+}.menu a{
+     text-decoration:none ;
 }
 
